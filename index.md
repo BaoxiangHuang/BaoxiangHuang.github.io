@@ -7,18 +7,12 @@ layout: about
 
 <br/>
 
-# 项目情况
+# Project Status
 
 
-<br/>
-
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
 
 <br/>
-# 学术成果
+# Academic Achievements
 * Chen, G., Huang, B., Chen, X., Ge, L., Radenkovic, M., & Ma, Y. (2022). Deep blue AI: A new bridge from
 data to knowledge for the ocean science. Deep Sea Research Part I: Oceanographic Research Papers, 190,103886. [[Paper](https://www.frontiersin.org/articles/10.3389/fmars.2022.1034188/full)] 
 * Huang, B., Ge, L., Chen, X., & Chen, G. (2022). Vertical structure-based classification of oceanic eddy
@@ -44,10 +38,14 @@ Observations and Remote Sensing, 14, 12348–12360. [[Paper](https://ieeexplore.
 * Huang, B., Pan, Z., Yang, H., & Bai, L. (2020). Variational level set method for image segmentation with
 simplex constraint of landmarks. Signal Processing: Image Communication, 82, 115745. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596519310690?via%3Dihub)]
 * Li, Y., Huang, B., Yang, H., Hou, G., Zhang, P., & Duan, J. (2020). Efficient image structural similarity
-quality assessment method using image regularised feature. IET Image Processing, 14(16), 4401–4411. doi:https://doi.org/10.1049/iet-ipr.2019.1570
+quality assessment method using image regularised feature. IET Image Processing, 14(16), 4401–4411. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2019.1570)]
 * Huang, B., Mu, Y., Pan, Z., Bai, L., Yang, H., & Duan, J. (2019). Speckle noise removal convex method
-using higher-order curvature variation. IEEE Access, 7, 79825–79838. doi:10.1109/ACCESS.2019.2923067
+using higher-order curvature variation. IEEE Access, 7, 79825–79838. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2019.1570)]
 * Mu, Y., Huang, B., Pan, Z., Yang, H., Hou, G., & Duan, J. (2019). An enhanced high-order variational
-model based on speckle noise removal with G0 distribution. IEEE Access, 7, 104365–104379. doi:10.1109/ACCESS.2019.2931581
+model based on speckle noise removal with G0 distribution. IEEE Access, 7, 104365–104379. [[Paper](https://ieeexplore.ieee.org/document/8778646)]
 * Huang, B., Chen, G., Zhang, X., & Yang, H. (2017). A coastal zone segmentation variational model and its
-accelerated ADMM method. Journal of Ocean University of China, 16(6), 1081–1089. <doi:10.1007/s11802-017-3601-4>
+accelerated ADMM method. Journal of Ocean University of China, 16(6), 1081–1089. [[Paper](https://link.springer.com/article/10.1007/s11802-017-3601-4
+)]
+* Mu, Y., Huang, B., Pan, Z., Yang, H., & Li, Y. (2019). Speckle noise removal for sar image based on g0
+distribution combining total variation and total curvature. In 2019 ieee 4th international conference on
+signal and image processing (icsip) (pp. 989–993). [[Paper](https://ieeexplore.ieee.org/document/8868583)]
