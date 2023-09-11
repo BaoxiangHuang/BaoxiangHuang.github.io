@@ -1,15 +1,15 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: Home Page
+baseurl: ""
+url: "https://baoxianghuang.github.io/"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: BaoxiangHuang
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  email: hbx@163.com
+  selfie: assets/img/photo.png
 
 # social
 social:
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: BaoxiangHuang
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: 
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: 
   vimeo:
   wordpress:
   youtube:
