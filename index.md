@@ -22,7 +22,7 @@ I like to automate and reduce annoying things.
 * Chen, G., Huang, B., Chen, X., Ge, L., Radenkovic, M., & Ma, Y. (2022). Deep blue AI: A new bridge from
 data to knowledge for the ocean science. Deep Sea Research Part I: Oceanographic Research Papers, 190,103886. [[Paper](https://www.frontiersin.org/articles/10.3389/fmars.2022.1034188/full)] 
 * Huang, B., Ge, L., Chen, X., & Chen, G. (2022). Vertical structure-based classification of oceanic eddy
-using 3-d convolutional neural network. IEEE Transactions on Geoscience and Remote Sensing, 60, 1–14. doi:10.1109/TGRS.2021.3103251
+using 3-d convolutional neural network. IEEE Transactions on Geoscience and Remote Sensing, 60, 1–14. [[Paper](https://ieeexplore.ieee.org/document/9521672)] 
 * Huang, B., Wang, Z., Shang, J., Chen, G., & Radenkovic, M. (2022). A spectral sequence-based nonlocal
 long short-term memory network for hyperspectral image classification. IEEE Journal of Selected Topics
 in Applied Earth Observations and Remote Sensing, 15, 3041–3051. doi:10.1109/JSTARS.2022.3159729
