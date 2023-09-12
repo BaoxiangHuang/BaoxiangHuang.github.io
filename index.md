@@ -8,9 +8,10 @@ layout: about
 <br/>
 
 # Project Status
-* 2018.1 – 2018.12       Project Name  "Database Principles" research-based classroom teaching reform and curriculum construction
-                         Project Source  Qingdao University
-                         School expenses  0.5 million yuan
+* 2018.1 – 2018.12<br/>
+  Project Name  "Database Principles" research-based classroom teaching reform and curriculum construction<br/>
+  Project Source  Qingdao University<br/>
+  School expenses  0.5 million yuan<br/>
 
 
 <br/>
