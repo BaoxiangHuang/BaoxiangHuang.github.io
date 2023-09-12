@@ -40,6 +40,16 @@ Research on lightweight AI methods for rapid prediction of environmental intelli
 
 <br/>
 # Academic Achievements
+* Ge, L., Huang, B., Chen, X., & Ge, C. (2023). Medium-Range Trajectory Prediction Network Compliant to Physical Constraint for Oceanic Eddy. IEEE Transactions on Geoscience and Remote Sensing, 61, 1-14. [[Paper](https://ieeexplore.ieee.org/document/10190732)]
+* Wang, G., Ge, C., Cao, C., Chen, X., & Huang, B. (2023). GEST: A multi-scale dynamics-based reconstruction of global ocean surface current. Earth System Science Data. [[Paper](https://essd.copernicus.org/preprints/essd-2023-107/)]
+* Huang, B., Ge, C., Zhang, H., Hou, G., & Radenkovic, M. (2023). Instant deep sea debris detection for maneuverable underwater machines to build sustainable ocean using deep neural network. The Science of The Total Environment, 878, 162826. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0048969723014420?via%3Dihub)]
+* Zhao, N., Huang, B., Zhang, X., Ge, L., & Ge, C. (2023). Intelligent identification of oceanic eddies in remote sensing data via Dual-Pyramid UNet. Atmospheric and Oceanic Science Letters, 16(23), 100335. [[Paper](https://www.sciencedirect.com/science/article/pii/S1674283423000107?via%3Dihub)]
+* Ge, C., Huang, B., Yang, J., Radenkovic, M., Ge, L., Cao, C., Chen, X., Xia, L., Han, G., & Ma, Y. (2023). Deep blue artificial intelligence for knowledge discovery of the intermediate ocean. Frontiers in Marine Science, 9. [[Paper](https://www.frontiersin.org/articles/10.3389/fmars.2022.1034188/full)]
+* Zhang, X., Huang, B., Ge, C., Radenkovic, M., & Hou, G. (2023). WildFishNet: Open Set Wild Fish Recognition Deep Neural Network With Fusion Activation Pattern. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 1-12. [[Paper](https://ieeexplore.ieee.org/document/10197176)]
+* Zhao, N., Huang, B., Yang, J., Radenkovic, M., & Ge, C. (2023). Oceanic Eddy Identification Using Pyramid Split Attention U-Net With Remote Sensing Imagery. IEEE Geoscience and Remote Sensing Letters, 1-1. [[Paper](https://ieeexplore.ieee.org/document/10041953)]
+* Xia, L., Ge, C., Chen, X., Ge, L., & Huang, B. (2022). Submesoscale oceanic eddy detection in SAR images using context and edge association network. Frontiers in Marine Science, 9, 1023624. [[Paper](https://www.frontiersin.org/articles/10.3389/fmars.2022.1023624/full)]
+* Xia, L., Chen, G., Chen, X., Ge, L., & Huang, B. (2022). Submesoscale oceanic eddy detection in SAR images using context and edge association network. Frontiers in Marine Science, 9, 1023624. [[Paper](https://www.frontiersin.org/articles/10.3389/fmars.2022.1023624/full)]
+* Yan, W., Li, Y., Yang, H., Huang, B., & Pan, Z. (2022). Semantic-aware multi-task learning for image aesthetic quality assessment. Connection Science, 34(1), 2689-2713. [[Paper](https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2147902)] 
 * Chen, G., Huang, B., Chen, X., Ge, L., Radenkovic, M., & Ma, Y. (2022). Deep blue AI: A new bridge from
 data to knowledge for the ocean science. Deep Sea Research Part I: Oceanographic Research Papers, 190,103886. [[Paper](https://www.frontiersin.org/articles/10.3389/fmars.2022.1034188/full)] 
 * Huang, B., Ge, L., Chen, X., & Chen, G. (2022). Vertical structure-based classification of oceanic eddy
