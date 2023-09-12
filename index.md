@@ -8,26 +8,31 @@ layout: about
 <br/>
 
 # Project Status
-* **2018.1 – 2018.12**<br/>
+* **2018.1 – 2018.12**
+<br/>
   **Project Name**  "Database Principles" research-based classroom teaching reform and curriculum construction<br/>
   **Project Source**  Qingdao University<br/>
   **School expenses**  0.5 million yuan<br/>
-* **2017.1 – 2020.12**<br/>
+* **2017.1 – 2020.12**
+<br/>
   **Project Name**  Research on urban traffic acoustic environment carrying capacity model and multi-dimensional soundscape evaluation method based on VRGIS
 Study ZR2017MD004<br/>
   **Project Source**  Shandong Provincial Natural Science Foundation of China<br/>
   **School expenses**  150,000 yuan<br/>  
-* **2022.1 – 2024.12**<br/>
+* **2022.1 – 2024.12**
+<br/>
   **Project Name**  Direct learning classification method of high-resolution remote sensing images for urban soundscape morphology
 ZR2021MD001<br/>
   **Project Source**  Shandong Provincial Natural Science Foundation of China<br/>
   **School expenses**  100,000 yuan<br/>
-* **2022.3 – 2025.2**<br/>
+* **2022.3 – 2025.2**
+<br/>
   **Project Name**  Qingdao National Laboratory of Marine Science and Technology "14th Five-Year Plan" major project sub-topic Ocean
 Research on lightweight AI methods for rapid prediction of environmental intelligence 2022QNLM050301<br/>
   **Project Source**  Qingdao National Laboratory of Marine Science and Technology<br/>
   **School expenses**  530,000 yuan<br/>
-* **2023.1 – 2026.12**<br/>
+* **2023.1 – 2026.12**
+<br/>
   **Project Name**  Prediction of ocean eddy full life cycle motion trajectory based on physical information neural network architecture
 42276203<br/>
   **Project Source**  National Natural Science Foundation of China<br/>
