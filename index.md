@@ -8,9 +8,15 @@ layout: about
 <br/>
 
 # Project Status
-* 2018.1 – 2018.12 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project Name  "Database Principles" research-based classroom teaching reform and curriculum construction<br/>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project Source  Qingdao University<br/>
-  School expenses  0.5 million yuan<br/>
+* **2018.1 – 2018.12**<br/>
+  **Project Name**  "Database Principles" research-based classroom teaching reform and curriculum construction<br/>
+  **Project Source**  Qingdao University<br/>
+  **School expenses**  0.5 million yuan<br/>
+* **2017.1 – 2020.12**<br/>
+  **Project Name**  Research on urban traffic acoustic environment carrying capacity model and multi-dimensional soundscape evaluation method based on VRGIS
+Study ZR2017MD004<br/>
+  **Project Source**  Shandong Provincial Natural Science Foundation of China<br/>
+  **School expenses**  150,000 yuan<br/>  
 
 
 <br/>
