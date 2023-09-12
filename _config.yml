@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Baoxiang Huang
-  desc: Hello nice to meet you
+  desc: hbx@163.com
   email: hbx@163.com
   selfie: assets/img/photo.png
 
